@@ -1,0 +1,25 @@
+.cible{
+    display:none;
+    position: fixed;
+    top:0px;
+    left:0px
+
+}
+
+.bouton{
+    display:block;
+    position: fixed;
+    left: 50%;
+    top:50%;
+    width: 100px;
+    height: 50px;
+    
+    
+}
+
+.x2{
+    display: none;
+    position: fixed;
+    right: 1px;
+
+}
